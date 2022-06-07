@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jin</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">This is Typescript Exercise Project - Typechain</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me : 1128msj@gmail.com</h3>
 <p align="left">
 </p>
 
